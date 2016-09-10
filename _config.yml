@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Stelios Omirou's CV 
+description: Stelios Omirou's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+#baseurl: https://ddbullfrog.github.io/resumecard
+#url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+#google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -14,72 +14,107 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
-  weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  name: Stelios Omirou
+  title: Developer
+  address: Athens, Greece
+  email: selemis@gmail.com
+  link: http://www.omirou.gr
+  #weibo:
+  github: selemis
+  #linkedin: ddbullfrog
+  twitter: s_omirou
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
+      company: Interamerican
+      location: Athens, Greece
       title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+      started: 2008
+      duration: (2008 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Military Service
+      started: 2007
+      duration: (2007 - 2008)
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Greek Ministry of Agriculture
+      location: Athens, Greece
+      title: Database Developer (Voluntarily)
+      started: 2002
+      duration: (2002 - 2002)
+      description: Created and supported a computer programme pertaining to the computerisation o the data of the pedigree and reproduction book of horses in Greece.  
+    - work4:
+      company: Greek Ministry of Agriculture
+      location: Athens, Greece
+      title: Database Developer (Voluntarily)
+      started: 2001
+      duration: (2001 - 2001)
+      description: Created and supported five different databases which kept records of horses, their medical examinations and their treatments. Liaised extensively with veterinarians and administration to administer an effective and efficient service to both veterinarians and the owners of thoroughbred racing horses 
+    - work5:
+      company: Info Quality S.A., Greece
+      location: Athens, Greece
+      title: Teacher
+      started: 2000
+      duration: (2000 - 2001)
+      description: Lectured groups of maximum 6 students both in theory and practical side of software.  Responsible for the progress of each group by giving the appropriate attention to each member in order to resolve all questions and keep the same level of expertise to the group.  Member of teams responsible for the design, implementation and evaluation of the syllabus of all the different software packages offered to students.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
+      organization: University of Kent
+      location: Canterbury, United Kingdom 
+      degree: MSc in Computer Science Class II(i) (69%)
+      major:  Computer Science
       started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2005 - 2006)
+      description: Modules included&#58; <ul><li>Advanced Programming</li><li>Software Engineering</li><li>Web – Based Information Systems</li><li>Logic & Artificial Intelligence</li><li>Computer Networks</li><li>Human Computer Interfacing</li><li>Systems Architecture</li></ul>Group Project on Software Engineering. Dissertation on Information Systems.
+    - education1:
+      organization: National & Kapodistrian University of Athens
+      location: Athens, Greece
+      degree: BSc  6.13/10
+      major: Mathematics
+      started: 1999
+      duration: (1999 - 2005)
+      #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - education2:
+      organization: TEI (College) of Piraeus
+      location: Piraeus, Greece
+      #degree: BSc  6.13/10
+      major: Textile Engineering
+      started: 1998
+      duration: (1998 - 1999)
+    - education3:
+      organization: Senior FrancoHellenic High School Lycee Leonin
+      location: Nea Smyrni, Greece
+      degree: High School
+      major: Software Engineering
+      started: 1995
+      duration: (1995 - 1998)
+      #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Greek
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: French
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
-    - skill2:
-      name: Bootstrap
-      percentage: 90%
-    - skill3:
-      name: JavaScript
-      percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
       name: Java/Java EE
       percentage: 90%
+    - skill2:
+      name: Groovy
+      percentage: 90%
+    - skill3:
+      name: Ruby/JRuby
+      percentage: 90%
+    - skill4:
+      name: Clojure
+      percentage: 50%
+    - skill5:
+      name: Javascript 
+      percentage: 50%
+
