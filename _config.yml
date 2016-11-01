@@ -25,7 +25,6 @@ author:
   twitter: s_omirou
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
-#  stackoverflow: 4582127
   workHistory:
     - work1:
       company: Interamerican
@@ -33,7 +32,7 @@ author:
       title: Java Developer
       started: 2008
       duration: (2008 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Development of various software insurance systems over the years for both <strong>Property and Casualty</strong> and <strong>Life and Health</strong>. Involved in migration of the legacy <strong>COBOL/CICS/Visual Basic 6</strong> client/server software system to <strong>J2EE</strong> platform. I have been developing applications as both a backend and a frontend developer. The last years I have introduced <strong>TDD</strong> in the development process.
     - work2:
       company: Military Service
       started: 2007
@@ -44,21 +43,21 @@ author:
       title: Database Developer (Voluntarily)
       started: 2002
       duration: (2002 - 2002)
-      description: Created and supported a computer programme pertaining to the computerisation o the data of the pedigree and reproduction book of horses in Greece.  
+      description: Developed and supported software system pertaining to the digitalization of the pedigree and reproduction book of thorougbred horses in Greece.  
     - work4:
       company: Greek Ministry of Agriculture
       location: Athens, Greece
-      title: Database Developer (Voluntarily)
+      title: Database Developer
       started: 2001
       duration: (2001 - 2001)
-      description: Created and supported five different databases which kept records of horses, their medical examinations and their treatments. Liaised extensively with veterinarians and administration to administer an effective and efficient service to both veterinarians and the owners of thoroughbred racing horses 
+      description: Developed and supported sofware system which kept records of horses, their medical examinations and their treatments. 
     - work5:
       company: Info Quality S.A., Greece
       location: Athens, Greece
       title: Teacher
       started: 2000
       duration: (2000 - 2001)
-      description: Lectured groups of maximum 6 students both in theory and practical side of software.  Responsible for the progress of each group by giving the appropriate attention to each member in order to resolve all questions and keep the same level of expertise to the group.  Member of teams responsible for the design, implementation and evaluation of the syllabus of all the different software packages offered to students.
+      description: Lectured small groups on both theory and practical side of software. Member of teams responsible for the design, implementation and evaluation of the syllabus of all the different software modules offered to students.
   educationHistory:
     - education1:
       organization: University of Kent
@@ -117,6 +116,9 @@ author:
     - skill5:
       name: Javascript 
       percentage: 50%
+    - skill6:
+      name: Visual Basic 
+      percentage: 75%
   training:
     - training1:
       title: "Developing Websites using IBM Web Content Manager 8.5"
