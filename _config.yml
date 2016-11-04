@@ -1,7 +1,7 @@
 # Site settings
-title: Stelios Omirou's CV 
+title: Stelios Omirou's CV
 description: Stelios Omirou's CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/Stelios_avatar.png
 #baseurl: https://ddbullfrog.github.io/resumecard
 #url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -32,7 +32,7 @@ author:
       title: Java Developer
       started: 2008
       duration: (2008 - Present)
-      description: Development of various software insurance systems over the years for both <strong>Property and Casualty</strong> and <strong>Life and Health</strong>. Involved in migration of the legacy <strong>COBOL/CICS/Visual Basic 6</strong> client/server software system to <strong>J2EE</strong> platform. I have been developing applications as both a backend and a frontend developer. The last years I have introduced <strong>TDD</strong> in the development process.
+      description: Development of various software insurance systems over the years for both <strong>Property and Casualty</strong> and <strong>Life and Health</strong>. Involved in migration of the legacy <strong>COBOL / CICS / Visual Basic 6</strong> client / server software system to <strong>J2EE</strong> platform. I have been developing applications as both a backend and a frontend developer. The last years I have introduced <strong>TDD</strong> in the development process.
     - work2:
       company: Military Service
       started: 2007
@@ -43,14 +43,14 @@ author:
       title: Database Developer (Voluntarily)
       started: 2002
       duration: (2002 - 2002)
-      description: Developed and supported software system pertaining to the digitalization of the pedigree and reproduction book of thorougbred horses in Greece.  
+      description: Developed and supported software system pertaining to the digitalization of the pedigree and reproduction book of thorougbred horses in Greece.
     - work4:
       company: Greek Ministry of Agriculture
       location: Athens, Greece
       title: Database Developer
       started: 2001
       duration: (2001 - 2001)
-      description: Developed and supported sofware system which kept records of horses, their medical examinations and their treatments. 
+      description: Developed and supported sofware system which kept records of horses, their medical examinations and their treatments.
     - work5:
       company: Info Quality S.A., Greece
       location: Athens, Greece
@@ -61,7 +61,7 @@ author:
   educationHistory:
     - education1:
       organization: University of Kent
-      location: Canterbury, United Kingdom 
+      location: Canterbury, United Kingdom
       degree: MSc in Computer Science Class II(i) (69%)
       major:  Computer Science
       started: 2005
@@ -74,7 +74,6 @@ author:
       major: Mathematics
       started: 1999
       duration: (1999 - 2005)
-      #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - education2:
       organization: TEI (College) of Piraeus
       location: Piraeus, Greece
@@ -89,7 +88,6 @@ author:
       major: Software Engineering
       started: 1995
       duration: (1995 - 1998)
-      #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
       name: Greek
@@ -114,17 +112,17 @@ author:
       name: Clojure
       percentage: 50%
     - skill5:
-      name: Javascript 
+      name: Javascript
       percentage: 50%
     - skill6:
-      name: Visual Basic 
+      name: Visual Basic
       percentage: 75%
   training:
     - training1:
       title: "Developing Websites using IBM Web Content Manager 8.5"
       started: 2016
       duration: (11/04/2016 - 15/04/2016)
-      description: A description 
+      description: Arrow Global Training Alliance
     - training2:
       title: "Quality Software Developer Foundation Certificate in Maintainability"
       started: 2015
