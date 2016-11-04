@@ -1,0 +1,166 @@
+# Site settings
+title: Stelios Omirou's CV
+description: Stelios Omirou's CV
+favicon: /assets/img/Stelios_avatar.png
+#baseurl: https://ddbullfrog.github.io/resumecard
+#url: https://ddbullfrog.github.io/resumecard
+rss_url: /pages/atom.xml
+#google_analytics: UA-63653234-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Stelios Omirou
+  title: Developer
+  address: Athens, Greece
+  email: selemis@gmail.com
+  link: http://www.omirou.gr
+  #weibo:
+  github: selemis
+  #linkedin: ddbullfrog
+  twitter: s_omirou
+  gavatar: /resumecard/assets/img/avatar.JPG
+  stackoverflow:
+  workHistory:
+    - work1:
+      company: Interamerican
+      location: Athens, Greece
+      title: Java Developer
+      started: 2008
+      duration: (2008 - Present)
+      description: Development of various software insurance systems over the years for both <strong>Property and Casualty</strong> and <strong>Life and Health</strong>. Involved in migration of the legacy <strong>COBOL / CICS / Visual Basic 6</strong> client / server software system to <strong>J2EE</strong> platform. I have been developing applications as both a backend and a frontend developer. The last years I have introduced <strong>TDD</strong> in the development process.
+    - work2:
+      company: Military Service
+      started: 2007
+      duration: (2007 - 2008)
+    - work3:
+      company: Greek Ministry of Agriculture
+      location: Athens, Greece
+      title: Database Developer (Voluntarily)
+      started: 2002
+      duration: (2002 - 2002)
+      description: Developed and supported software system pertaining to the digitalization of the pedigree and reproduction book of thorougbred horses in Greece.
+    - work4:
+      company: Greek Ministry of Agriculture
+      location: Athens, Greece
+      title: Database Developer
+      started: 2001
+      duration: (2001 - 2001)
+      description: Developed and supported sofware system which kept records of horses, their medical examinations and their treatments.
+    - work5:
+      company: Info Quality S.A., Greece
+      location: Athens, Greece
+      title: Teacher
+      started: 2000
+      duration: (2000 - 2001)
+      description: Lectured small groups on both theory and practical side of software. Member of teams responsible for the design, implementation and evaluation of the syllabus of all the different software modules offered to students.
+  educationHistory:
+    - education1:
+      organization: University of Kent
+      location: Canterbury, United Kingdom
+      degree: MSc in Computer Science Class II(i) (69%)
+      major:  Computer Science
+      started: 2005
+      duration: (2005 - 2006)
+      description: Modules included&#58; <ul><li>Advanced Programming</li><li>Software Engineering</li><li>Web – Based Information Systems</li><li>Logic & Artificial Intelligence</li><li>Computer Networks</li><li>Human Computer Interfacing</li><li>Systems Architecture</li></ul>Group Project on Software Engineering. Dissertation on Information Systems.
+    - education1:
+      organization: National & Kapodistrian University of Athens
+      location: Athens, Greece
+      degree: BSc  6.13/10
+      major: Mathematics
+      started: 1999
+      duration: (1999 - 2005)
+    - education2:
+      organization: TEI (College) of Piraeus
+      location: Piraeus, Greece
+      #degree: BSc  6.13/10
+      major: Textile Engineering
+      started: 1998
+      duration: (1998 - 1999)
+    - education3:
+      organization: Senior FrancoHellenic High School Lycee Leonin
+      location: Nea Smyrni, Greece
+      degree: High School
+      major: Software Engineering
+      started: 1995
+      duration: (1995 - 1998)
+  languages:
+    - language1:
+      name: Greek
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+    - language3:
+      name: French
+      proficiency: Limit
+  programmingSkills:
+    - skill1:
+      name: Java/Java EE
+      percentage: 90%
+    - skill2:
+      name: Groovy
+      percentage: 90%
+    - skill3:
+      name: Ruby/JRuby
+      percentage: 90%
+    - skill4:
+      name: Clojure
+      percentage: 50%
+    - skill5:
+      name: Javascript
+      percentage: 50%
+    - skill6:
+      name: Visual Basic
+      percentage: 75%
+  training:
+    - training1:
+      title: "Developing Websites using IBM Web Content Manager 8.5"
+      started: 2016
+      duration: (11/04/2016 - 15/04/2016)
+      description: Arrow Global Training Alliance
+    - training2:
+      title: "Quality Software Developer Foundation Certificate in Maintainability"
+      started: 2015
+      duration: (22/12/2015)
+      description: PeopleCert. Quality Software Developer Foundation Certificate in Maintainability. Programming Language Java. In accordance with SIG(Software Improvement Group) standards for building maintable software.
+    - training3:
+      title: "Mastering Ruby Blocks & Iterators"
+      started: 2014
+      location: Online
+      duration: (12/12/2014 - 18/12/2014)
+      description: <a href="https://pragmaticstudio.com/alumni/stylianos-omirou-z1cg">Pragmatic Studio</a>
+    - training4:
+      title: "Ruby on Rails: Level II"
+      started: 2014
+      location: Online
+      duration: (01/04/2014 - 19/04/2014)
+      description: <a href="https://pragmaticstudio.com/alumni/stylianos-omirou-z1cg">Pragmatic Studio</a>
+    - training5:
+      title: "Ruby on Rails: Level I"
+      started: 2013
+      location: Online
+      duration: (01/05/2013 - 19/06/2013)
+      description: <a href="https://pragmaticstudio.com/alumni/stylianos-omirou-z1cg">Pragmatic Studio</a>
+    - training6:
+      title: "Ruby Programming"
+      started: 2012
+      location: Online
+      duration: (12/08/2012 - 18/12/2012)
+      description: <a href="https://pragmaticstudio.com/alumni/stylianos-omirou-z1cg">Pragmatic Studio</a>
+    - training7:
+      title: "Web Services Development for Websphere Application Server V6.1 with IBM RAD 7(WD505GR)"
+      started: 2008
+      location: Athens
+      duration: (14/07/2008 - 18/07/2008)
+      description: IBM Education Services
+    - training8:
+      title: "Custom Training - Master Srvlt & JSP Dev. with Rational Application Developer V7 (RD792GR)"
+      started: 2008
+      location: Athens
+      duration: (23/06/2008 - 26/06/2008)
+      description: IBM Education Services
