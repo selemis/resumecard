@@ -115,50 +115,57 @@ author:
       name: Clojure
       percentage: 50%
     - skill5:
-      name: Javascript 
+      name: Javascript
       percentage: 50%
+    - skill6:
+      name: Elixir
+      percentage: 30%
   training:
     - training1:
+      title: "PSM I"
+      started: 2017
+      duration: (18/08/2017 - 18/08/2017)
+      description: Professional Scrum Master I
+    - training2:
       title: "Developing Websites using IBM Web Content Manager 8.5"
       started: 2016
       duration: (11/04/2016 - 15/04/2016)
-      description: A description 
-    - training2:
+    - training3:
       title: "Quality Software Developer Foundation Certificate in Maintainability"
       started: 2015
       duration: (22/12/2015)
       description: PeopleCert. Quality Software Developer Foundation Certificate in Maintainability. Programming Language Java. In accordance with SIG(Software Improvement Group) standards for building maintable software.
-    - training3:
+    - training4:
       title: "Mastering Ruby Blocks & Iterators"
       started: 2014
       location: Online
       duration: (12/12/2014 - 18/12/2014)
       description: <a href="https://pragmaticstudio.com/alumni/stylianos-omirou-z1cg">Pragmatic Studio</a>
-    - training4:
+    - training5:
       title: "Ruby on Rails: Level II"
       started: 2014
       location: Online
       duration: (01/04/2014 - 19/04/2014)
       description: <a href="https://pragmaticstudio.com/alumni/stylianos-omirou-z1cg">Pragmatic Studio</a>
-    - training5:
+    - training6:
       title: "Ruby on Rails: Level I"
       started: 2013
       location: Online
       duration: (01/05/2013 - 19/06/2013)
       description: <a href="https://pragmaticstudio.com/alumni/stylianos-omirou-z1cg">Pragmatic Studio</a>
-    - training6:
+    - training7:
       title: "Ruby Programming"
       started: 2012
       location: Online
       duration: (12/08/2012 - 18/12/2012)
       description: <a href="https://pragmaticstudio.com/alumni/stylianos-omirou-z1cg">Pragmatic Studio</a>
-    - training7:
+    - training8:
       title: "Web Services Development for Websphere Application Server V6.1 with IBM RAD 7(WD505GR)"
       started: 2008
       location: Athens
       duration: (14/07/2008 - 18/07/2008)
       description: IBM Education Services
-    - training8:
+    - training9:
       title: "Custom Training - Master Srvlt & JSP Dev. with Rational Application Developer V7 (RD792GR)"
       started: 2008
       location: Athens
